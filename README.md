@@ -21,3 +21,6 @@ With an increasing range of laptop models, predicting the price based on specifi
 
 ## 📈 Model Accuracy
 Achieved good accuracy with Random Forest Regressor using a structured ML pipeline. Further improvements can be made with hyperparameter tuning and cross-validation.
+
+## 📦 Installation
+pip install -r requirements.txt
