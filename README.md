@@ -51,7 +51,8 @@ To use it:
 > Note: The current version is deployed **locally**, not on cloud (like Hugging Face or Render). You can host it on platforms for public access.
 
 ## 📸 UI Preview
-
+<img width="1366" height="571" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/c2da88b1-2191-4f37-a26e-51c5bd73d0b1" />
+<img width="1225" height="581" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/9496a5ff-e6f9-401f-91df-93bb20441c43" />
 
 ## 🧠 Model Performance
 
